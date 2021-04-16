@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		576AE57F2629FA820054F84C /* Unchained Melody.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 576AE57E2629FA820054F84C /* Unchained Melody.mp3 */; };
 		57CB8B622626FB0A004316F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CB8B612626FB0A004316F9 /* AppDelegate.swift */; };
 		57CB8B642626FB0A004316F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CB8B632626FB0A004316F9 /* SceneDelegate.swift */; };
 		57CB8B662626FB0A004316F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57CB8B652626FB0A004316F9 /* ViewController.swift */; };
 		57CB8B692626FB0A004316F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57CB8B672626FB0A004316F9 /* Main.storyboard */; };
 		57CB8B6B2626FB0F004316F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57CB8B6A2626FB0F004316F9 /* Assets.xcassets */; };
 		57CB8B6E2626FB0F004316F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57CB8B6C2626FB0F004316F9 /* LaunchScreen.storyboard */; };
+		57CB8B772626FC81004316F9 /* MySnowParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 57CB8B762626FC81004316F9 /* MySnowParticle.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		576AE57E2629FA820054F84C /* Unchained Melody.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Unchained Melody.mp3"; sourceTree = "<group>"; };
 		57CB8B5E2626FB0A004316F9 /* viewDidLoad畫面2-hug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "viewDidLoad畫面2-hug.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57CB8B612626FB0A004316F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57CB8B632626FB0A004316F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		57CB8B6A2626FB0F004316F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57CB8B6D2626FB0F004316F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57CB8B6F2626FB0F004316F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57CB8B762626FC81004316F9 /* MySnowParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MySnowParticle.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +60,11 @@
 		57CB8B602626FB0A004316F9 /* viewDidLoad畫面2-hug */ = {
 			isa = PBXGroup;
 			children = (
+				576AE57E2629FA820054F84C /* Unchained Melody.mp3 */,
 				57CB8B612626FB0A004316F9 /* AppDelegate.swift */,
 				57CB8B632626FB0A004316F9 /* SceneDelegate.swift */,
 				57CB8B652626FB0A004316F9 /* ViewController.swift */,
+				57CB8B762626FC81004316F9 /* MySnowParticle.sks */,
 				57CB8B672626FB0A004316F9 /* Main.storyboard */,
 				57CB8B6A2626FB0F004316F9 /* Assets.xcassets */,
 				57CB8B6C2626FB0F004316F9 /* LaunchScreen.storyboard */,
@@ -124,8 +130,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				576AE57F2629FA820054F84C /* Unchained Melody.mp3 in Resources */,
 				57CB8B6E2626FB0F004316F9 /* LaunchScreen.storyboard in Resources */,
 				57CB8B6B2626FB0F004316F9 /* Assets.xcassets in Resources */,
+				57CB8B772626FC81004316F9 /* MySnowParticle.sks in Resources */,
 				57CB8B692626FB0A004316F9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
